@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="76c5ecfd-36f9-4314-83bd-5f1b11b56dfa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/a.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmd/root.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmd/word.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/internal/word/word.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/inconshreveable/mousetrap/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/inconshreveable/mousetrap/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/inconshreveable/mousetrap/trap_others.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/inconshreveable/mousetrap/trap_windows.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/inconshreveable/mousetrap/trap_windows_1.4.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/cobra/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/cobra/.mailmap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/cobra/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/cobra/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/cobra/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/cobra/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/cobra/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/cobra/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/cobra/args.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/cobra/bash_completions.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/cobra/bash_completions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/cobra/cobra.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/cobra/command.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/cobra/command_notwin.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/cobra/command_win.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/cobra/custom_completions.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/cobra/fish_completions.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/cobra/fish_completions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/cobra/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/cobra/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/cobra/powershell_completions.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/cobra/powershell_completions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/cobra/projects_using_cobra.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/cobra/shell_completions.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/cobra/shell_completions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/cobra/zsh_completions.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/cobra/zsh_completions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/pflag/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/pflag/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/pflag/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/pflag/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/pflag/bool.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/pflag/bool_slice.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/pflag/bytes.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/pflag/count.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/pflag/duration.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/pflag/duration_slice.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/pflag/flag.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/pflag/float32.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/pflag/float32_slice.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/pflag/float64.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/pflag/float64_slice.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/pflag/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/pflag/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/pflag/golangflag.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/pflag/int.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/pflag/int16.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/pflag/int32.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/pflag/int32_slice.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/pflag/int64.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/pflag/int64_slice.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/pflag/int8.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/pflag/int_slice.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/pflag/ip.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/pflag/ip_slice.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/pflag/ipmask.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/pflag/ipnet.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/pflag/string.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/pflag/string_array.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/pflag/string_slice.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/pflag/string_to_int.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/pflag/string_to_int64.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/pflag/string_to_string.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/pflag/uint.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/pflag/uint16.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/pflag/uint32.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/pflag/uint64.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/pflag/uint8.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/github.com/spf13/pflag/uint_slice.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/modules.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../part1/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../part3/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../readme.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file:///usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1lmOsaRUKZ0dSPJ1t1vwSSwqnoF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build go-programming-tour-book/ch1/part2/a" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="a" />
+      <working_directory value="$PROJECT_DIR$" />
+      <parameters value="word -s 'model' -m 1 " />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="go-programming-tour-book/ch1/part2/a" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build go-programming-tour-book/ch1/part2/a" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/cmd/word.go</url>
+          <line>36</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/cmd/word.go</url>
+          <line>37</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/internal/word/word.go</url>
+          <line>8</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="GoApplicationRunConfiguration">
+        <watch expression="mode" language="go" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
