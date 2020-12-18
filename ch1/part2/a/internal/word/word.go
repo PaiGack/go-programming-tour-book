@@ -15,7 +15,7 @@ func ToLower(s string) string {
 
 func UnderscoreToUpperCamelCase(s string) string {
 	s = strings.Replace(s, "_", " ", -1)
-	s = strings.ToTitle(s)
+	s = strings.Title(s)
 	return strings.Replace(s, " ", "", -1)
 }
 
@@ -33,6 +33,7 @@ func CamelCaseToUnderscore(s string) string {
 		if unicode.IsUpper(r) {
 			output = append(output, unicode.ToLower(r))
 		}
+		output = append(output, unicode.ToLower(r))
 	}
 	return string(output)
 }
